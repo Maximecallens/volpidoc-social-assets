@@ -46,3 +46,9 @@ Mettre en avant ce que Volpidoc fait gagner : du temps, de l'argent, de vraies i
 - X (2 par semaine, mercredi et vendredi 12 h) : 280 caractères maximum (un lien compte 23), image 1600×900, pas de hashtag ou un seul.
 - Visuels : charte claire (fond blanc → turquoise très pâle, texte bleu marine #003046, accents #0094B6, orange #F15A24 avec parcimonie), police Plus Jakarta Sans, logo couleur, renard en filigrane. Pas de fond sombre (demande de Maxime). Générateur de référence : `tools/render_semaine1.py`.
 - Avant publication : passer le texte LinkedIn dans `tools/li_text.py` (sinon LinkedIn tronque le texte aux parenthèses).
+
+## Réseaux actifs (14 oct. 2026)
+- LinkedIn (page Volpidoc) et Facebook (page Volpidoc) : mardi et jeudi 9 h, même texte (Facebook reçoit l'image, ou la 1re page du carrousel).
+- X (@volpidoc) : mercredi et vendredi 12 h.
+- YouTube (@Volpidoc) Short + Reel Facebook : lundi 12 h.
+- Instagram (@volpidoc_france) : **inactif** tant que Maxime n'a pas confirmé que le compte est validé par Meta et relié à la page Facebook Volpidoc (il est provisoirement relié à la page Tattoomorrow : ne rien y publier).
