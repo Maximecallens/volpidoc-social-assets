@@ -51,4 +51,4 @@ Mettre en avant ce que Volpidoc fait gagner : du temps, de l'argent, de vraies i
 - LinkedIn (page Volpidoc) et Facebook (page Volpidoc) : mardi et jeudi 9 h, même texte (Facebook reçoit l'image, ou la 1re page du carrousel).
 - X (@volpidoc) : mercredi et vendredi 12 h.
 - YouTube (@Volpidoc) Short + Reel Facebook : lundi 12 h.
-- Instagram (@volpidoc_france) : **inactif** tant que Maxime n'a pas confirmé que le compte est validé par Meta et relié à la page Facebook Volpidoc (il est provisoirement relié à la page Tattoomorrow : ne rien y publier).
+- Instagram (@volpidoc_france) : **actif** depuis le 14/10/2026 (compte validé par Meta et relié à la page Facebook Volpidoc). Les Shorts y sont publiés en Reel : passer "publier_instagram": "oui".
