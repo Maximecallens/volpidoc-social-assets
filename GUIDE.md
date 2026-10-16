@@ -52,3 +52,10 @@ Mettre en avant ce que Volpidoc fait gagner : du temps, de l'argent, de vraies i
 - X (@volpidoc) : mercredi et vendredi 12 h.
 - YouTube (@Volpidoc) Short + Reel Facebook : lundi 12 h.
 - Instagram (@volpidoc_france) : **actif** depuis le 14/10/2026 (compte validé par Meta et relié à la page Facebook Volpidoc). Les Shorts y sont publiés en Reel : passer "publier_instagram": "oui".
+
+## Motion designs (Shorts) — fonctionnement depuis le 16 oct. 2026
+- Les vidéos sont réalisées par le développeur, d'après le planning « Volpidoc - Planning motion design.xlsx » à la racine du drive partagé Google Volpidoc (copie de référence : planning/planning-motion-design.xlsx, généré par planning/build_planning.py).
+- Nom de fichier attendu : VD_SH_NN_AAAA-MM-JJ.mp4 (date = lundi de publication) ; corrections : _v2, _v3… Dépôt au plus tard le vendredi 18 h.
+- Samedi (tâche « motion designs du dev ») : transfert Drive → inbox/ via le scénario Make 7970983, contrôle forme + textes du planning, programmation (plan_<lundi>_short « prêt ») ou prompt de correction pour le développeur. Vidéos hors planning : mises en réserve, utilisées seulement si la vidéo prévue manque.
+- Lundi : publication seulement si le plan est « prêt ». Claude ne fabrique plus de Short lui-même.
+- Ressources pour le développeur : brand/logos/, brand/fonts/, posts/short-01_preavis/ (vidéo de référence et gabarit motion.html).
