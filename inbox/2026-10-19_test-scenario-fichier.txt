@@ -1,0 +1,1 @@
+Test du scénario Make 8041736 (envoi de fichier), 19/10/2026. Peut être supprimé.
