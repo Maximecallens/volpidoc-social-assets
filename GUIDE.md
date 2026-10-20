@@ -46,6 +46,7 @@ Mettre en avant ce que Volpidoc fait gagner : du temps, de l'argent, de vraies i
 - X (2 par semaine, mercredi et vendredi 12 h) : 280 caractères maximum (un lien compte 23), image 1600×900, pas de hashtag ou un seul.
 - Visuels : charte claire (fond blanc → turquoise très pâle, texte bleu marine #003046, accents #0094B6, orange #F15A24 avec parcimonie), police Plus Jakarta Sans, logo couleur, renard en filigrane. Pas de fond sombre (demande de Maxime). Générateur de référence : `tools/render_semaine1.py`.
 - Avant publication : passer le texte LinkedIn dans `tools/li_text.py` (sinon LinkedIn tronque le texte aux parenthèses).
+- Exception vidéo (décision de Maxime du 20/10/2026) : un mardi peut accueillir une vidéo à la place de l'image, publiée sur LinkedIn seulement (le Reel Facebook est déjà parti la semaine d'avant) par une tâche programmée dédiée via le scénario Make 8073788 « VOLPIDOC → Vidéo LinkedIn ». Le plan du jour porte alors le statut « vidéo (tâche dédiée) ». Premiers cas : 3/11 et 10/11/2026 (vd_li_v01, vd_li_v02) ; le post BTP prévu le 3/11 passe au 17/11.
 
 ## Réseaux actifs (14 oct. 2026)
 - LinkedIn (page Volpidoc) et Facebook (page Volpidoc) : mardi et jeudi 9 h, même texte (Facebook reçoit l'image, ou la 1re page du carrousel).
