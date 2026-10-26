@@ -46,17 +46,27 @@ Mettre en avant ce que Volpidoc fait gagner : du temps, de l'argent, de vraies i
 - X (2 par semaine, mercredi et vendredi 12 h) : 280 caractères maximum (un lien compte 23), image 1600×900, pas de hashtag ou un seul.
 - Visuels : charte claire (fond blanc → turquoise très pâle, texte bleu marine #003046, accents #0094B6, orange #F15A24 avec parcimonie), police Plus Jakarta Sans, logo couleur, renard en filigrane. Pas de fond sombre (demande de Maxime). Générateur de référence : `tools/render_semaine1.py`.
 - Avant publication : passer le texte LinkedIn dans `tools/li_text.py` (sinon LinkedIn tronque le texte aux parenthèses).
+- Vidéos courtes (depuis le 26/10/2026) : 2 par semaine, lundi et mercredi 11 h 52, sur YouTube Shorts, Reel Facebook, Reel Instagram ET LinkedIn (scénario Make 8073788). Texte LinkedIn : linkedin.txt du dossier s'il existe, sinon rédigé à la publication — voix de Julien, 600 à 1 100 caractères, lien calculateur avec utm_campaign=shorts, 3 hashtags max. La description YouTube contient aussi le lien de démo avec Julien (https://meetings-eu1.hubspot.com/julien-favereaux/rendez-vous-decouverte, avec UTM).
 - Exception vidéo (décision de Maxime du 20/10/2026) : un mardi peut accueillir une vidéo à la place de l'image, publiée sur LinkedIn seulement (le Reel Facebook est déjà parti la semaine d'avant) par une tâche programmée dédiée via le scénario Make 8073788 « VOLPIDOC → Vidéo LinkedIn ». Le plan du jour porte alors le statut « vidéo (tâche dédiée) ». Premiers cas : 3/11 et 10/11/2026 (vd_li_v01, vd_li_v02) ; le post BTP prévu le 3/11 passe au 17/11.
 
 ## Réseaux actifs (14 oct. 2026)
 - LinkedIn (page Volpidoc) et Facebook (page Volpidoc) : mardi et jeudi 9 h, même texte (Facebook reçoit l'image, ou la 1re page du carrousel).
 - X (@volpidoc) : mercredi et vendredi 12 h.
-- YouTube (@Volpidoc) Short + Reel Facebook : lundi 12 h.
+- Vidéos (YouTube @Volpidoc Short + Reel Facebook + Reel Instagram + vidéo LinkedIn) : lundi et mercredi 11 h 52 (depuis le 26/10/2026 ; avant : lundi seulement, sans LinkedIn).
 - Instagram (@volpidoc_france) : **actif** depuis le 14/10/2026 (compte validé par Meta et relié à la page Facebook Volpidoc). Les Shorts y sont publiés en Reel : passer "publier_instagram": "oui".
 
-## Motion designs (Shorts) — fonctionnement depuis le 16 oct. 2026
-- Les vidéos sont réalisées par le développeur, d'après le planning « Volpidoc - Planning motion design.xlsx » à la racine du drive partagé Google Volpidoc (copie de référence : planning/planning-motion-design.xlsx, généré par planning/build_planning.py).
-- Nom de fichier attendu : VD_SH_NN_AAAA-MM-JJ.mp4 (date = lundi de publication) ; corrections : _v2, _v3… Dépôt au plus tard le vendredi 18 h.
-- Samedi (tâche « motion designs du dev ») : transfert Drive → inbox/ via le scénario Make 7970983, contrôle forme + textes du planning, programmation (plan_<lundi>_short « prêt ») ou prompt de correction pour le développeur. Vidéos hors planning : mises en réserve, utilisées seulement si la vidéo prévue manque.
-- Lundi : publication seulement si le plan est « prêt ». Claude ne fabrique plus de Short lui-même.
+## Motion designs (vidéos courtes) — fonctionnement depuis le 26 oct. 2026
+- Rythme : 2 vidéos par semaine, le lundi et le mercredi (décision de Maxime du 26/10/2026). LinkedIn reçoit aussi chaque vidéo (en plus des posts du mardi et du jeudi).
+- Les vidéos sont réalisées par le développeur, d'après le planning « Volpidoc - Planning motion design.xlsx » à la racine du drive partagé Google Volpidoc (copie de référence : planning/planning-motion-design.xlsx). L'ancien planning (1 vidéo par semaine) est renommé « ARCHIVE 2026-10-26 … » : ne plus l'utiliser. Le planning est tenu au moins 6 semaines à l'avance (lignes VD_SH_01 à VD_SH_24 au 26/10/2026, jusqu'au 13/01/2027).
+- Nom de fichier attendu : VD_SH_NN_AAAA-MM-JJ.mp4 (date = jour de publication, lundi ou mercredi) ; corrections : _v2, _v3… Dépôt au plus tard le vendredi 18 h précédant la semaine de publication. Exception : VD_SH_02 à 09, livrées avant le changement de rythme, gardent leur ancien nom ; seule la colonne « Date de publication » fait foi.
+- Samedi (tâche « motion designs du dev ») : transfert Drive → inbox/ via le scénario Make 7970983, contrôle forme + textes du planning, programmation (plan_<date>_short « prêt », dossier avec video.mp4, youtube.txt, caption.txt, linkedin.txt) ou prompt de correction pour le développeur. Vidéos hors planning : mises en réserve, utilisées seulement si la vidéo prévue manque.
+- Lundi et mercredi (tâche « Short vidéo lundi & mercredi ») : publication seulement si le plan est « prêt » ; un plan « promo (tâche dédiée) » est publié par une autre tâche. Claude ne fabrique plus de vidéo lui-même.
+- Fonctionnalités à confirmer (remarques du développeur, 23/10/2026) : la lettre de résiliation pré-remplie et l'export agenda .ics figurent dans llms.txt mais le développeur ne les voit pas dans l'application. Ne pas en faire de nouveaux contenus tant que Maxime n'a pas confirmé.
 - Ressources pour le développeur : brand/logos/, brand/fonts/, posts/short-01_preavis/ (vidéo de référence et gabarit motion.html).
+
+## Data store Make 218332 (historique et planning)
+- L'API Make ne lit que 100 records par appel : toujours limit 100, jamais plus.
+- Chaque dimanche soir, la tâche « nettoyage du data store » archive les records terminés de plus de 21 jours dans archive/datastore/<date>.json puis les supprime du data store.
+- Record « compteurs » (brief « vd_li=N;vd_x=N ») : derniers numéros attribués ; c'est lui qui donne le prochain vd_li_NN / vd_x_NN (pas le nombre de clés).
+- Record « drv_index » (brief = fileId séparés par des virgules) : vidéos du drive déjà traitées dont le record drv_ a été archivé ; à ignorer à l'inventaire du samedi.
+- Champs disponibles : post_id, date, canal, format, pilier, titre, dossier, brief, statut, texte, lien (tout autre champ est perdu).
