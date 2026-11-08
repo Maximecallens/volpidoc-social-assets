@@ -1,0 +1,170 @@
+[
+  {
+    "key": "drv_13HKtaB7PYwoPu54vZrRYAj-3SVCWfKSA",
+    "data": {
+      "post_id": "VD_SH_02",
+      "date": "2026-10-16",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "planning VD_SH_02",
+      "titre": "VD_SH_02_2026-10-26.mp4",
+      "dossier": "plan_2026-10-26_short",
+      "brief": "Contrôlée le 17/10. Motif : forme et textes conformes au planning (22 s, H.264+AAC, 1080x1920, 30 i/s, scène finale fixe 3,6 s). Programmée le 26/10.",
+      "statut": "PUBLIABLE"
+    }
+  },
+  {
+    "key": "drv_1eJEtUpaW8f_CmrF45n1olZ7yDSVQwINr",
+    "data": {
+      "post_id": "VD_SH_03",
+      "date": "2026-10-16",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "planning VD_SH_03",
+      "titre": "VD_SH_03_2026-11-02.mp4",
+      "dossier": "plan_2026-11-02_short",
+      "brief": "Contrôlée le 17/10. Motif : forme et textes conformes au planning, chiffres exacts (1 248 / 1 298 / 1 350 €) avec « Exemple illustratif ». Programmée le 02/11.",
+      "statut": "PUBLIABLE"
+    }
+  },
+  {
+    "key": "drv_1NQFJpLZmx07BfgmMgflsjB41bplbrBZy",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-09T17-32-18 - Trois sociétés, un seul cockpit.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : promeut la fonction multi-sociétés (interdite), sur l'ancienne charte (fonds bleu marine, ancien logo, sans mention « aide à la lecture », sans piste audio).",
+      "statut": "ÉCARTÉE"
+    }
+  },
+  {
+    "key": "drv_1twIVUJjU4gm9rFtPGm5Iako-XKhPWFLD",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-09T17-11-56 - Un dossier PDF n'est pas un pilotage.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : ancienne charte contraire aux règles (scènes sur fond bleu marine, ancien logo, ni en-tête série ni mention « aide à la lecture », pas de bloc final calculateur, sans piste audio) ; sujet repris par VD_SH_09.",
+      "statut": "ÉCARTÉE"
+    }
+  },
+  {
+    "key": "drv_1yZvPqhbMcW4AQJEXQqCwMtbJPP5ffGvZ",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-09T17-32-17 - 20 minutes par trimestre.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : ancienne charte contraire aux règles (scènes sur fond bleu marine, ancien logo, ni en-tête série ni mention « aide à la lecture », sans piste audio, 27 s) ; sujet repris par VD_SH_10.",
+      "statut": "ÉCARTÉE"
+    }
+  },
+  {
+    "key": "drv_1E0FbfiE9L7ebvpfVo59SV6tBSjaIf7Q8",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-09T17-02-46 - Vos contrats répondent.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : ancienne charte contraire aux règles (scènes sur fond bleu marine, ancien logo, ni en-tête série ni mention « aide à la lecture », sans piste audio) ; sujet repris par VD_SH_07.",
+      "statut": "ÉCARTÉE"
+    }
+  },
+  {
+    "key": "drv_1ndZha_r968qaKuYMWbLr6fMY26zk-18r",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-06T10-09-05 - Le préavis était hier.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : ancienne charte contraire aux règles (scènes sur fond bleu marine, ancien logo, ni en-tête série ni mention « aide à la lecture », sans piste audio) ; sujet traité par VD_SH_01/VD_SH_02.",
+      "statut": "ÉCARTÉE"
+    }
+  },
+  {
+    "key": "drv_1lSPFr5QSeMW0W7PwxIqS_tZ0d4ev-Sw7",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-09T17-02-47 - La réponse est page 47.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : ancienne charte contraire aux règles (scènes sur fond bleu marine, ancien logo, ni en-tête série ni mention « aide à la lecture », sans piste audio) ; sujet repris par VD_SH_07.",
+      "statut": "ÉCARTÉE"
+    }
+  },
+  {
+    "key": "drv_1dnWbAfLf_AUapgHSQ5hjJc6wSoOe7YB5",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-09T17-41-39 - Quatre contrats, un seul à ouvrir.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : ancienne charte contraire aux règles (scènes sur fond bleu marine, ancien logo, ni en-tête série ni mention « aide à la lecture », sans piste audio) ; sujet repris par VD_SH_09.",
+      "statut": "ÉCARTÉE"
+    }
+  },
+  {
+    "key": "drv_1LYtKrlgOBf7TFw7MAWLw9aT73lX7qIGO",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-09T17-23-08 - L'inventaire que personne n'a fait.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : ancienne charte contraire aux règles (scènes sur fond bleu marine, ancien logo, ni en-tête série ni mention « aide à la lecture », sans piste audio) ; sujet repris par VD_SH_08.",
+      "statut": "ÉCARTÉE"
+    }
+  },
+  {
+    "key": "drv_10byJTqCKHskvaf-3pBKGS7ih7WFO5p6A",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-09T17-41-40 - La ligne payée deux fois.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : ancienne charte contraire aux règles (scènes sur fond bleu marine, ancien logo, ni en-tête série ni mention « aide à la lecture », sans piste audio) ; sujet traité par VD_SH_04.",
+      "statut": "ÉCARTÉE"
+    }
+  },
+  {
+    "key": "drv_1vHv6f_qqX7TWLj2BZJgyNw7R2XEQ7cf4",
+    "data": {
+      "post_id": "hors planning",
+      "date": "2026-10-15",
+      "canal": "drive",
+      "format": "motion",
+      "pilier": "hors planning",
+      "titre": "2026-10-09T17-11-57 - Même prix, pas la même couverture.mp4",
+      "dossier": "aucun",
+      "brief": "Contrôlée le 17/10. Motif : ancienne charte contraire aux règles (scènes sur fond bleu marine, ancien logo, ni en-tête série ni mention « aide à la lecture », sans piste audio) ; sujet repris par VD_SH_06.",
+      "statut": "ÉCARTÉE"
+    }
+  }
+]
