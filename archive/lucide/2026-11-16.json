@@ -1,0 +1,609 @@
+[
+  {
+    "key": "lucide_li_c3_05",
+    "data": {
+      "post_id": "lucide_li_c3_05",
+      "date": "2026-10-20T00:00:00.000Z",
+      "pilier": "FONCTIONNALITÉ",
+      "titre": "Posez vos questions à votre portefeuille",
+      "accroche": "Une IA peut vous expliquer la bourse en détail. Sauf ce qui se passe dans votre portefeuille.",
+      "fonctionnalite": "Lucide dans Claude et ChatGPT (connecteur MCP OAuth, lecture seule, dès le compte gratuit ; comparaison Base, screener Premium)",
+      "statut": "publié (LinkedIn, Facebook, Instagram)",
+      "texte": "Une IA peut vous expliquer la bourse en détail. Sauf ce qui se passe dans votre portefeuille.\n\n(texte complet : posts/2026-10-20_c3_05/linkedin.txt ; exécution Make ab552b9cbd1f4913ac0f9bc76d7d7c03)",
+      "format": "image"
+    }
+  },
+  {
+    "key": "lucide_li_c3_04",
+    "data": {
+      "post_id": "lucide_li_c3_04",
+      "date": "2026-10-16T00:00:00.000Z",
+      "pilier": "PÉDAGOGIE (motion)",
+      "titre": "100 € par mois, ça devient combien ?",
+      "accroche": "100 € par mois pendant 30 ans, c'est 36 000 € versés. Avec 5 % par an, cela peut devenir plus de 81 000 €.",
+      "fonctionnalite": "Calculateur d'intérêts composés + simulateur DCA gratuits (sans inscription)",
+      "statut": "publié (LinkedIn, Facebook, Instagram, YouTube)",
+      "texte": "100 € par mois pendant 30 ans, c'est 36 000 € versés. Avec 5 % par an, cela peut devenir plus de 81 000 €.\n\n(texte complet : posts/2026-10-16_c3_04/linkedin.txt ; publié après réautorisation LinkedIn, exécution 46993332825441e09727ea4dccf3d0df)",
+      "format": "motion"
+    }
+  },
+  {
+    "key": "lucide_li_c3_03",
+    "data": {
+      "post_id": "lucide_li_c3_03",
+      "date": "2026-10-13T00:00:00.000Z",
+      "pilier": "NOUVEAUTÉ",
+      "titre": "Cette action est-elle éligible au PEA ?",
+      "accroche": "Une action cotée à Paris n'est pas forcément éligible au PEA.",
+      "fonctionnalite": "Page publique actions éligibles PEA (classement par note /100, France / hors France, tendance, valorisation vs médiane) + diagnostic PEA",
+      "statut": "publié (LinkedIn, Facebook, Instagram)",
+      "texte": "Une action cotée à Paris n'est pas forcément éligible au PEA.\n\nCe n'est pas la place de cotation qui compte, c'est le siège social de la société. Et c'est l'un des pièges les plus fréquents quand on construit son PEA.\n\nLes règles, en bref :\n• Éligible : une société dont le siège est dans l'Union européenne ou dans l'Espace économique européen (Islande, Norvège, Liechtenstein), soumise à l'impôt sur les sociétés ou à un impôt équivalent.\n• Éligible aussi : les fonds et ETF investis à au moins 75 % en titres éligibles. C'est ce qui permet, via certains ETF, une exposition indirecte à des indices étrangers.\n• Pas éligible : les actions de sociétés dont le siège est aux États-Unis, au Royaume-Uni ou en Suisse, même si elles sont cotées en Europe.\n• Pas éligible : les foncières cotées (SIIC) et les obligations.\n\nLe réflexe avant d'acheter : vérifier le pays du siège, puis confirmer l'éligibilité auprès de votre courtier.\n\nPour vous faire gagner ce temps, Lucide publie une page gratuite dédiée :\n→ les actions éligibles au PEA suivies par Lucide, classées par note sur 100 (qualité, croissance, solidité, valorisation, allocation du capital)\n→ les mieux notées en France et hors de France (Allemagne, Pays-Bas, Espagne…)\n→ pour chacune : secteur, tendance du cours, valorisation comparée à sa médiane historique\n→ et si vous avez déjà un PEA, le diagnostic gratuit (sans inscription) note vos lignes, et son rapport complet vérifie leur éligibilité\n\nUne note décrit la qualité d'une entreprise à une date donnée : elle ne dit pas si c'est le moment d'acheter.\n\n👉 Consultez la liste : lucide.finance/actions/eligibles-pea\n\nVous êtes-vous déjà fait refuser un ordre sur votre PEA parce qu'un titre n'était pas éligible ?\n\n⚠️ Contenu informatif, ne constitue pas un conseil en investissement.\n\n#PEA #Bourse #Actions #Investissement #FinancePersonnelle",
+      "format": "image"
+    }
+  },
+  {
+    "key": "lucide_li_bonus_2026-10-12",
+    "data": {
+      "post_id": "lucide_li_bonus_2026-10-12",
+      "date": "2026-10-12T00:00:00.000Z",
+      "pilier": "NOUVEAUTÉ (bonus hors planning, motion)",
+      "titre": "Lucide est disponible dans Claude",
+      "accroche": "Lucide est désormais disponible dans l'annuaire des connecteurs Claude.",
+      "fonctionnalite": "Intégration Claude (annuaire des connecteurs) : démo « Quelle est la note Lucide de LVMH ? » avec données réelles du 12/10 (note globale 50, Core Quality 64, Potentiel IA 50, Tendance 13 baisse)",
+      "statut": "publié (LinkedIn, Facebook, Instagram, YouTube Short)",
+      "format": "motion"
+    }
+  },
+  {
+    "key": "lucide_li_c3_02",
+    "data": {
+      "post_id": "lucide_li_c3_02",
+      "date": "2026-10-09T00:00:00.000Z",
+      "pilier": "FONCTIONNALITÉ / PÉDAGOGIE",
+      "titre": "Les frais que vous ne voyez pas",
+      "accroche": "1,5 point de frais en plus par an, ça paraît peu. Sur 20 ans, ça peut représenter plus de 6 000 €.",
+      "fonctionnalite": "Analyse de fonds par ISIN (TER, perf 3 ans, SRRI, note 5 dimensions)",
+      "statut": "publié (LinkedIn, Facebook, Instagram)",
+      "texte": "1,5 point de frais en plus par an, ça paraît peu. Sur 20 ans, ça peut représenter plus de 6 000 €.\n\nLes frais d'un fonds ne vous sont jamais facturés : ils sont retirés chaque année de la performance, sans ligne visible sur votre relevé.\n\nCe qu'il faut regarder avant de garder ou de choisir un fonds (OPCVM, ETF, unité de compte d'assurance-vie) :\n• Les frais courants, prélevés chaque année : ils figurent dans le document d'informations clés (DIC).\n• Les frais d'entrée, parfois négociables.\n• Les rétrocessions : une partie des frais de gestion peut être reversée au distributeur qui vous a vendu le fonds.\n\nUn exemple simple. 10 000 € placés 20 ans, avec 5 % par an avant frais :\n→ avec 0,3 % de frais annuels : environ 25 060 €\n→ avec 1,8 % de frais annuels : environ 18 780 €\nSoit environ 6 280 € d'écart, uniquement dû aux frais. (Exemple illustratif, rendement non garanti.)\n\nC'est pour ça que Lucide analyse un fonds à partir de son code ISIN :\n→ les frais réels (TER) affichés clairement\n→ la performance sur 3 ans, la volatilité et le niveau de risque (SRRI)\n→ une note sur 5 dimensions : performance, risque, composition, coûts, gérant\n→ un verdict rédigé en français clair, exportable en PDF\n\nL'analyse de fonds est incluse dès le plan Base (14 €/mois), et dans l'essai Premium de 14 jours, sans carte bancaire.\n\n👉 Vérifiez les fonds de votre assurance-vie : lucide.finance/pricing\n\nVous connaissez les frais courants de chacun de vos fonds, ou c'est encore flou ?\n\n⚠️ Contenu informatif, ne constitue pas un conseil en investissement.\n\n#AssuranceVie #FraisDeGestion #ETF #Epargne #FinancePersonnelle",
+      "format": "image"
+    }
+  },
+  {
+    "key": "lucide_li_c3_01",
+    "data": {
+      "post_id": "lucide_li_c3_01",
+      "date": "2026-10-06T00:00:00.000Z",
+      "pilier": "NOUVEAUTÉ (diagnostic portefeuille)",
+      "accroche": "Votre portefeuille mérite quelle note sur 100 ?",
+      "fonctionnalite": "Diagnostic de portefeuille gratuit sans inscription + essai Premium 14 jours sans CB",
+      "statut": "publié (LinkedIn, Facebook, Instagram)",
+      "texte": "Votre portefeuille mérite quelle note sur 100 ?\n\nPresque tout le monde sait ce qu'il détient.\nTrès peu savent si, pris dans son ensemble, leur portefeuille est de qualité.\n\nOn juge chaque ligne séparément. On garde celles qui ont monté, on regarde moins les autres. Et le portefeuille, lui, n'est jamais évalué comme un tout.\n\nOn a donc créé un outil simple : le diagnostic de portefeuille Lucide.\nGratuit, sans inscription, 30 secondes.\n\n→ Vous saisissez vos lignes (actions, ETF, cryptos) avec leur montant ou leur quantité\n→ Vous choisissez l'enveloppe : PEA, compte-titres, assurance-vie ou PER\n→ Vous obtenez une note globale : la moyenne des notes Lucide de vos actions, pondérée par le poids de chaque ligne\n→ Et 3 constats immédiats sur ce qui tire votre portefeuille vers le haut… ou vers le bas\n\nLe rapport complet arrive ensuite par email si vous le souhaitez : répartition par secteur, zone géographique et devise, niveau de concentration, tendance de chaque ligne. Et pour un PEA, la vérification d'éligibilité de vos titres.\n\nLe calcul repose uniquement sur les données et la méthode Lucide, la même grille appliquée à chaque action.\n\nEt si le résultat vous donne envie d'aller plus loin : Lucide Premium s'essaie désormais 14 jours, sans carte bancaire.\n\n👉 Faites le test : lucide.finance/diagnostic-portefeuille\n\nAvant de cliquer : vous pariez sur quelle note ?\n\n⚠️ Contenu informatif, ne constitue pas un conseil en investissement.\n\n#Investissement #GestionDePortefeuille #PEA #Bourse #FinancePersonnelle"
+    }
+  },
+  {
+    "key": "lucide_li_c2_13",
+    "data": {
+      "post_id": "lucide_li_c2_13",
+      "date": "2026-10-02T00:00:00.000Z",
+      "pilier": "PAIN (obsession du timing)",
+      "titre": "QUOI et à quel PRIX",
+      "accroche": "\"C'est le bon moment pour acheter ?\"",
+      "fonctionnalite": "Fondamental (qualité, prix vs historique) plutôt que timing",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_12",
+    "data": {
+      "post_id": "lucide_li_c2_12",
+      "date": "2026-09-29T00:00:00.000Z",
+      "pilier": "(inconnu)",
+      "titre": "(contenu non fourni)",
+      "accroche": "(inconnue)",
+      "fonctionnalite": "(inconnue)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_11",
+    "data": {
+      "post_id": "lucide_li_c2_11",
+      "date": "2026-09-25T00:00:00.000Z",
+      "pilier": "PAIN / PERSONA (solitude décisionnelle)",
+      "titre": "Décider seul, mais plus dans le noir",
+      "accroche": "Vous êtes seul face à vos décisions d'investissement.",
+      "fonctionnalite": "Cadre neutre, copilote sans produit à vendre",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_10",
+    "data": {
+      "post_id": "lucide_li_c2_10",
+      "date": "2026-09-22T00:00:00.000Z",
+      "pilier": "FONCTIONNALITÉ (Reco IA arbitrage)",
+      "titre": "Analyse IA du portefeuille",
+      "accroche": "Une IA qui regarde TOUT votre portefeuille et vous dit où ça coince.",
+      "fonctionnalite": "Reco IA arbitrage portefeuille",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_09",
+    "data": {
+      "post_id": "lucide_li_c2_09",
+      "date": "2026-09-18T00:00:00.000Z",
+      "pilier": "PAIN (suivi bancaire ponctuel)",
+      "titre": "1 fois par an vs tous les jours",
+      "accroche": "Votre conseiller vous rappelle une fois par an.",
+      "fonctionnalite": "Suivi continu, alertes publication de résultats",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_08",
+    "data": {
+      "post_id": "lucide_li_c2_08",
+      "date": "2026-09-15T00:00:00.000Z",
+      "pilier": "FONCTIONNALITÉ (Score Potentiel IA)",
+      "titre": "Deux lectures, une décision",
+      "accroche": "Le fondamental vous dit ce qu'une entreprise vaut aujourd'hui.",
+      "fonctionnalite": "Score Potentiel IA vs score fondamental",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_07",
+    "data": {
+      "post_id": "lucide_li_c2_07",
+      "date": "2026-09-11T00:00:00.000Z",
+      "pilier": "PAIN / PERSONA (peur de mal faire)",
+      "titre": "Vous n'avez pas à tout comprendre pour bien faire",
+      "accroche": "\"J'achèterai quand j'aurai compris.\"",
+      "fonctionnalite": "Score, 5 dimensions, red flags",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_06",
+    "data": {
+      "post_id": "lucide_li_c2_06",
+      "date": "2026-09-08T00:00:00.000Z",
+      "pilier": "FONCTIONNALITÉ (watchlist)",
+      "titre": "Watchlist enrichie",
+      "accroche": "Suivre 40 actions sans y passer ses journées, c'est possible.",
+      "fonctionnalite": "Watchlist enrichie (perf, fraîcheur, alerte résultats)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_05",
+    "data": {
+      "post_id": "lucide_li_c2_05",
+      "date": "2026-09-04T00:00:00.000Z",
+      "pilier": "PAIN (surcharge d'infos)",
+      "titre": "Du bruit au signal",
+      "accroche": "Trop d'informations tue la décision.",
+      "fonctionnalite": "Score lisible sur 100",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_04",
+    "data": {
+      "post_id": "lucide_li_c2_04",
+      "date": "2026-09-01T00:00:00.000Z",
+      "pilier": "FONCTIONNALITÉ (screener)",
+      "titre": "Screener : partir de critères, pas d'un nom",
+      "accroche": "Et si vous inversiez le problème ?",
+      "fonctionnalite": "Screener par critères",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_03",
+    "data": {
+      "post_id": "lucide_li_c2_03",
+      "date": "2026-08-28T00:00:00.000Z",
+      "pilier": "PAIN (indépendance / conseiller)",
+      "titre": "Vendeur, ou conseiller ?",
+      "accroche": "\"Je vous ai placé sur un de nos fonds maison.\"",
+      "fonctionnalite": "Neutralité : aucun produit vendu",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_02",
+    "data": {
+      "post_id": "lucide_li_c2_02",
+      "date": "2026-08-25T00:00:00.000Z",
+      "pilier": "FONCTIONNALITÉ (import portefeuille)",
+      "titre": "5 relevés → 1 seul écran",
+      "accroche": "Votre portefeuille est éparpillé sur 5 relevés différents.",
+      "fonctionnalite": "Import de relevés CSV/Excel par IA",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_c2_01",
+    "data": {
+      "post_id": "lucide_li_c2_01",
+      "date": "2026-08-21T00:00:00.000Z",
+      "pilier": "PAIN (manque de temps)",
+      "titre": "Le temps que vous n'avez pas",
+      "accroche": "Vous n'avez pas 3 heures par semaine pour analyser vos placements.",
+      "fonctionnalite": "Score sur 100 (5 dimensions)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_17",
+    "data": {
+      "post_id": "lucide_li_17",
+      "date": "2026-07-29T00:00:00.000Z",
+      "pilier": "Pédagogie / Lead magnet",
+      "titre": "Investir avec l'IA",
+      "accroche": "\"L'IA va-t-elle remplacer les analystes financiers ?\"",
+      "fonctionnalite": "Guide gratuit /outils/investir-avec-ia",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_16",
+    "data": {
+      "post_id": "lucide_li_16",
+      "date": "2026-07-27T00:00:00.000Z",
+      "pilier": "Pédagogie / Lead magnet",
+      "titre": "Guide Analyse Fondamentale",
+      "accroche": "Analyser une action en bourse, ça prend combien de temps ?",
+      "fonctionnalite": "Guide gratuit /outils/guide-analyse-fondamentale",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_15",
+    "data": {
+      "post_id": "lucide_li_15",
+      "date": "2026-07-24T00:00:00.000Z",
+      "pilier": "Founder",
+      "titre": "5 semaines, ce qu'on a appris",
+      "accroche": "5 semaines de Lucide en ligne. Voici ce qu'on a appris.",
+      "fonctionnalite": "Bilan produit / build in public",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_14",
+    "data": {
+      "post_id": "lucide_li_14",
+      "date": "2026-07-22T00:00:00.000Z",
+      "pilier": "Pédagogie",
+      "titre": "200 pages en 30 secondes",
+      "accroche": "Faire lire un rapport de 200 pages à une IA en 30 secondes.",
+      "fonctionnalite": "Analyse de PDF (deck, rapport annuel)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_13",
+    "data": {
+      "post_id": "lucide_li_13",
+      "date": "2026-07-20T00:00:00.000Z",
+      "pilier": "Problème → Solution",
+      "titre": "Sur-exposé sans le savoir",
+      "accroche": "Vous êtes sur-exposé à un secteur sans le savoir.",
+      "fonctionnalite": "Exposition réelle par secteur/devise/zone (transparence ETF)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_12",
+    "data": {
+      "post_id": "lucide_li_12",
+      "date": "2026-07-17T00:00:00.000Z",
+      "pilier": "Démonstration",
+      "titre": "IA sur portefeuille (456 k€)",
+      "accroche": "On a demandé à une IA d'analyser un portefeuille complet.",
+      "fonctionnalite": "Reco IA portefeuille (scores diversification/concentration, alertes, arbitrages)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_11",
+    "data": {
+      "post_id": "lucide_li_11",
+      "date": "2026-07-15T00:00:00.000Z",
+      "pilier": "Pédagogie",
+      "titre": "Battre le marché",
+      "accroche": "\"Battre le marché\", ça veut dire quoi concrètement ?",
+      "fonctionnalite": "Performance comparée aux indices de référence",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_10",
+    "data": {
+      "post_id": "lucide_li_10",
+      "date": "2026-07-13T00:00:00.000Z",
+      "pilier": "Problème → Solution",
+      "titre": "Portefeuille éparpillé",
+      "accroche": "Votre portefeuille est éparpillé sur 4 supports.",
+      "fonctionnalite": "Consolidation multi-comptes",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_09",
+    "data": {
+      "post_id": "lucide_li_09",
+      "date": "2026-07-10T00:00:00.000Z",
+      "pilier": "Founder",
+      "titre": "3 choix de méthodo",
+      "accroche": "3 choix de méthodologie que j'ai dû trancher en construisant le scoring de Lucide.",
+      "fonctionnalite": "Méthodologie du scoring (valorisation, outliers, valorisation contre soi-même)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_08",
+    "data": {
+      "post_id": "lucide_li_08",
+      "date": "2026-07-08T00:00:00.000Z",
+      "pilier": "Pédagogie",
+      "titre": "La grille",
+      "accroche": "Comparer 2 actions au feeling, c'est comme comparer 2 CV sans grille.",
+      "fonctionnalite": "Même grille pour chaque action, comparaison côte à côte",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_07",
+    "data": {
+      "post_id": "lucide_li_07",
+      "date": "2026-07-06T00:00:00.000Z",
+      "pilier": "Problème → Solution",
+      "titre": "Le mauvais moment",
+      "accroche": "Acheter au mauvais moment peut ruiner une bonne analyse.",
+      "fonctionnalite": "Signaux techniques / tendance pour la fenêtre d'entrée",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_06",
+    "data": {
+      "post_id": "lucide_li_06",
+      "date": "2026-07-03T00:00:00.000Z",
+      "pilier": "Démonstration",
+      "titre": "À quoi ressemble un score (Hermès)",
+      "accroche": "Voici à quoi ressemble le score d'une action sur Lucide.",
+      "fonctionnalite": "Score global + radar 5 dimensions + date d'actualisation (screenshot Hermès)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_05",
+    "data": {
+      "post_id": "lucide_li_05",
+      "date": "2026-07-01T00:00:00.000Z",
+      "pilier": "Pédagogie",
+      "titre": "Le ROIC",
+      "accroche": "Le ROIC, c'est le ratio que 90 % des particuliers ignorent.",
+      "fonctionnalite": "Dimension Qualité du score (ROIC sur 5 ans)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_li_04",
+    "data": {
+      "post_id": "lucide_li_04",
+      "date": "2026-06-29T00:00:00.000Z",
+      "pilier": "Problème → Solution",
+      "titre": "Est-elle chère ?",
+      "accroche": "Vous avez trouvé une action prometteuse. Mais est-elle chère ?",
+      "fonctionnalite": "Valorisation dans le score (EV/EBIT, P/E vs historique)",
+      "statut": "publié"
+    }
+  },
+  {
+    "key": "lucide_sh_04",
+    "data": {
+      "post_id": "lucide_sh_04",
+      "date": "2026-10-15T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 04",
+      "titre": "La diversification",
+      "accroche": "Diversifier son portefeuille : pourquoi 5 lignes ne font pas 5 risques ? #Shorts",
+      "fonctionnalite": "Diagnostic de portefeuille gratuit (concentration, secteurs, devises, zones) → lucide.finance/diagnostic-portefeuille",
+      "statut": "publié (Facebook, Instagram, YouTube)",
+      "texte": "Diversifier, ce n'est pas multiplier les lignes : c'est répartir ses risques. 🧩\n\nExemple hypothétique : 5 lignes à 20 %. Une banque française, un assureur français, un ETF banques zone euro, une banque espagnole et un éditeur de logiciels américain.\n5 placements… mais 80 % du portefeuille sur un seul secteur, la finance en euros.\n\n4 questions à se poser :\n→ même secteur ?\n→ même devise ?\n→ même zone géographique ?\n→ une ligne pèse-t-elle trop lourd ?\n\nRepère indicatif : 10 actions du même secteur restent un seul pari.\n\nLe diagnostic de portefeuille Lucide, gratuit et sans inscription, montre votre concentration par secteur, devise et zone.\n\n👉 Lien en bio : lucide.finance/diagnostic-portefeuille\n\nÉpisode 04 de « 1 notion en 20 s ». Quelle notion pour le prochain ? 👇\n\nContenu informatif, ne constitue pas un conseil en investissement.\n\n#bourse #investissement #diversification #portefeuille #actions #investirenbourse #financepersonnelle #pea #lucidefinance",
+      "format": "short"
+    }
+  },
+  {
+    "key": "lucide_sh_03",
+    "data": {
+      "post_id": "lucide_sh_03",
+      "date": "2026-10-12T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 03",
+      "titre": "Le PER",
+      "accroche": "PER d'une action : comment savoir si elle est chère ? #Shorts",
+      "fonctionnalite": "Valorisation vs médiane historique (note Lucide) → lucide.finance/actions",
+      "statut": "publié (Facebook, Instagram, YouTube)",
+      "texte": "Le PER : le ratio le plus cité en bourse, et l'un des plus mal lus. 📊\n\nPER = cours de l'action ÷ bénéfice par action.\nEn clair : combien d'années de bénéfices actuels vous payez en achetant l'action.\n\nExemple hypothétique : une action à 150 € pour 5 € de bénéfice par action, c'est un PER de 30.\n\nCher ? Pas forcément. Un PER ne veut rien dire seul, il se compare :\n→ à son historique : 30 face à une médiane 10 ans de 40, c'est 25 % en dessous ; face à 15, c'est le double\n→ à la croissance de ses bénéfices\n→ à son secteur (repères indicatifs)\n\nSur Lucide, la valorisation de chaque action est comparée à sa propre médiane historique, dans sa note.\n\n👉 Lien en bio : lucide.finance/actions\n\nÉpisode 03 de « 1 notion en 20 s ». Quelle notion pour le prochain ? 👇\n\nContenu informatif, ne constitue pas un conseil en investissement.\n\n#bourse #investissement #per #valorisation #analysefondamentale #actions #investirenbourse #financepersonnelle #pea #lucidefinance",
+      "format": "short"
+    }
+  },
+  {
+    "key": "lucide_sh_02",
+    "data": {
+      "post_id": "lucide_sh_02",
+      "date": "2026-10-08T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 02",
+      "titre": "Le rendement du dividende",
+      "accroche": "Rendement du dividende : comment éviter le piège du dividende trop élevé ? #Shorts",
+      "fonctionnalite": "Note qualité / solidité (soutenabilité du dividende) → lucide.finance/actions",
+      "statut": "publié (Facebook, Instagram, YouTube) — YouTube : vidéo publique mais sans titre ni description (erreur Make uploadVideo [403], exécution 4c55a11c9131489394ed32e8bb3b43fd), métadonnées à ajouter à la main",
+      "texte": "Le rendement du dividende : ce qu'une action vous verse chaque année, en % de son prix. 💶\n\nRendement = dividende annuel ÷ cours de l'action.\n\nExemple hypothétique : action à 100 €, dividende de 4 € = rendement de 4 %.\n\nLe piège : si le cours tombe à 50 €, le rendement grimpe à 8 %… juste parce que l'action a chuté.\n\nLe réflexe : le taux de distribution (dividende ÷ bénéfice par action). Repères indicatifs, variables selon les secteurs :\n→ moins de 60 % : marge de sécurité\n→ 60 à 100 % : à surveiller\n→ plus de 100 % : dividende non couvert\n\nSur Lucide, la note de chaque action intègre sa qualité et sa solidité financière.\n\n👉 Lien en bio : lucide.finance/actions\n\nÉpisode 02 de « 1 notion en 20 s ». Quelle notion pour le prochain ? 👇\n\nContenu informatif, ne constitue pas un conseil en investissement.\n\n#bourse #investissement #dividende #rendement #analysefondamentale #actions #investirenbourse #financepersonnelle #pea #lucidefinance",
+      "format": "short"
+    }
+  },
+  {
+    "key": "lucide_sh_01",
+    "data": {
+      "post_id": "lucide_sh_01",
+      "date": "2026-10-05T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 01",
+      "titre": "Le ROIC",
+      "accroche": "Le ROIC en 20 secondes : l'entreprise crée-t-elle vraiment de la valeur ? #Shorts",
+      "fonctionnalite": "Note qualité /100 (ROIC 5 ans) → lucide.finance/actions",
+      "statut": "publié (Facebook, Instagram, YouTube)",
+      "texte": "Le ROIC, c'est le ratio qui dit si une entreprise crée vraiment de la valeur. 📊\n\nROIC = bénéfice d'exploitation après impôt ÷ capital investi.\nEn clair : combien l'entreprise gagne pour chaque euro immobilisé dans son activité.\n\nExemple : 100 € investis qui rapportent 20 € par an, c'est un ROIC de 20 %.\n\nRepères indicatifs, à regarder sur 5 ans plutôt que sur une seule année :\n→ plus de 15 % : moteur de rentabilité, souvent un avantage durable\n→ 8 à 15 % : correct, sans avantage marqué\n→ moins de 8 % : crée peu de valeur\n\nSur Lucide, le ROIC sur 5 ans est déjà calculé et intégré à la note qualité /100 de chaque action.\n\n👉 Lien en bio : lucide.finance\n\nÉpisode 1 de « 1 notion en 20 s ». Quelle notion pour le prochain ? 👇\n\nContenu informatif, ne constitue pas un conseil en investissement.\n\n#bourse #investissement #roic #analysefondamentale #actions #investirenbourse #financepersonnelle #epargne #pea #lucidefinance",
+      "format": "short"
+    }
+  },
+  {
+    "key": "plan_2026-10-09",
+    "data": {
+      "date": "2026-10-09T00:00:00.000Z",
+      "pilier": "FONCTIONNALITÉ / PÉDAGOGIE",
+      "titre": "Les frais que vous ne voyez pas",
+      "fonctionnalite": "Analyse de fonds par ISIN (frais cachés, comparaison à l'indice)",
+      "statut": "réalisé → lucide_li_c3_02",
+      "format": "image",
+      "brief": "Les frais d'un fonds (OPCVM, ETF, UC d'assurance-vie) rongent la performance sans qu'on les voie. Valeur : expliquer frais courants, frais d'entrée, rétrocessions, impact chiffré sur 20 ans (calcul simple et vérifiable, ex. 1,8 % vs 0,2 % par an). Lucide : analyse d'un fonds par son code ISIN, frais révélés et performance comparée à son indice de référence (plan Base 14 €). CTA lucide.finance/pricing ou accueil."
+    }
+  },
+  {
+    "key": "plan_2026-10-13",
+    "data": {
+      "date": "2026-10-13T00:00:00.000Z",
+      "pilier": "NOUVEAUTÉ",
+      "titre": "Cette action est-elle éligible au PEA ?",
+      "fonctionnalite": "Page actions éligibles PEA + filtre PEA du screener",
+      "statut": "réalisé → lucide_li_c3_03",
+      "format": "image",
+      "brief": "Valeur : règles d'éligibilité au PEA (siège UE/EEE, soumis à l'IS, cas des ETF) et pièges classiques (société française ou européenne non éligible, ADR). Vérifier les règles via service-public.fr ou AMF avant d'écrire. Lucide : page publique des actions éligibles PEA avec leur note + screener filtrable PEA + vérification PEA dans le diagnostic. CTA lucide.finance/actions/eligibles-pea."
+    }
+  },
+  {
+    "key": "plan_2026-10-16",
+    "data": {
+      "date": "2026-10-16T00:00:00.000Z",
+      "pilier": "PÉDAGOGIE (motion)",
+      "titre": "100 € par mois, ça devient combien ?",
+      "fonctionnalite": "Calculateur d'intérêts composés + simulateur DCA gratuits",
+      "statut": "réalisé → lucide_li_c3_04",
+      "format": "motion",
+      "brief": "MOTION DESIGN 9:16 ~15-20 s. Courbe 100 €/mois à 5 %/an hypothétique sur 30 ans, versements vs intérêts. CTA lucide.finance/outils/calculateur-interets-composes. Dossier posts/2026-10-16_c3_04."
+    }
+  },
+  {
+    "key": "plan_2026-10-20",
+    "data": {
+      "date": "2026-10-20T00:00:00.000Z",
+      "pilier": "FONCTIONNALITÉ",
+      "titre": "Posez vos questions à votre portefeuille",
+      "fonctionnalite": "Intégration Claude / ChatGPT sur les données Lucide",
+      "statut": "réalisé → lucide_li_c3_05",
+      "format": "image",
+      "brief": "Valeur : une IA généraliste ne connaît ni vos positions ni des données financières fiables ; exemples de questions utiles à poser sur un portefeuille. Lucide : connecter Claude ou ChatGPT à vos données Lucide (notes, portefeuille, watchlist) et les interroger en langage naturel. Vérifier sur le site le plan concerné (Platinium) et le fonctionnement exact avant d'écrire. CTA lucide.finance/pricing."
+    }
+  },
+  {
+    "key": "plan_2026-10-23",
+    "data": {
+      "date": "2026-10-23T00:00:00.000Z",
+      "pilier": "PÉDAGOGIE",
+      "titre": "Hausse, pullback, essoufflement… dans quelle phase est votre action ?",
+      "fonctionnalite": "Analyse de tendance en 5 états",
+      "statut": "réalisé → lucide_li_c3_06",
+      "format": "image",
+      "brief": "Valeur : une bonne entreprise peut traverser des phases de cours très différentes ; expliquer simplement moyenne mobile 200 jours et RSI. Lucide : analyse de tendance en 5 états (Hausse, Pullback, Essoufflement, Rebond, Baisse), complémentaire du score fondamental. Angle différent du post de juillet « Le mauvais moment » : ici on explique les 5 états. Pas de conseil d'achat. CTA lucide.finance/actions."
+    }
+  },
+  {
+    "key": "serie_2026-10-12",
+    "data": {
+      "date": "2026-10-12T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 03",
+      "titre": "Le PER",
+      "fonctionnalite": "Valorisation vs médiane historique (note Lucide)",
+      "statut": "réalisé → lucide_sh_03",
+      "format": "short",
+      "brief": "Notion : le PER (prix / bénéfice). Animation : prix de l'action ÷ bénéfice par action = nombre d'années de bénéfices payées. Message clé : un PER de 30 n'est ni cher ni bon marché en soi, il faut le comparer à l'historique de l'entreprise et à sa croissance (barre PER actuel vs médiane 10 ans, exemple hypothétique clairement indiqué). Lucide : valorisation comparée à la propre médiane historique de chaque action, dans la note. CTA lucide.finance/actions. Dossier posts/2026-10-12_sh_03."
+    }
+  },
+  {
+    "key": "serie_2026-10-15",
+    "data": {
+      "date": "2026-10-15T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 04",
+      "titre": "La diversification",
+      "fonctionnalite": "Diagnostic de portefeuille gratuit",
+      "statut": "réalisé → lucide_sh_04",
+      "format": "short",
+      "brief": "Notion : la diversification (multiplier les lignes ≠ diversifier les risques). Animation : 5 lignes qui semblent variées se regroupent en 2 blocs de même secteur / même devise ; jauge de concentration qui monte. Exemple hypothétique. Lucide : diagnostic de portefeuille gratuit sans inscription (concentration, secteurs, devises, zones). CTA lucide.finance/diagnostic-portefeuille. Dossier posts/2026-10-15_sh_04."
+    }
+  },
+  {
+    "key": "serie_2026-10-19",
+    "data": {
+      "date": "2026-10-19T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 05",
+      "titre": "La marge opérationnelle",
+      "fonctionnalite": "Note qualité (marge opérationnelle et stabilité)",
+      "statut": "réalisé → lucide_sh_05",
+      "format": "short",
+      "brief": "Notion : la marge opérationnelle (résultat d'exploitation ÷ chiffre d'affaires). Animation : 100 € de ventes qui se décomposent en coûts et en marge ; comparaison de deux modèles hypothétiques (marge 8 % vs 30 %) ; importance de la stabilité sur plusieurs années. Lucide : marge et stabilité de marge dans la note qualité. CTA lucide.finance/actions. Dossier posts/2026-10-19_sh_05."
+    }
+  },
+  {
+    "key": "serie_2026-10-22",
+    "data": {
+      "date": "2026-10-22T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 06",
+      "titre": "Le free cash flow",
+      "fonctionnalite": "Fiche action (P/FCF vs médiane 10 ans, note)",
+      "statut": "réalisé → lucide_sh_06",
+      "format": "short",
+      "brief": "Notion : le free cash flow (flux de trésorerie disponible = cash généré par l'activité moins investissements). Animation : cascade hypothétique bénéfice 100 → +25 charges sans cash → −35 stocks/clients → −60 investissements → FCF 30 ; jauge de conversion FCF/bénéfice (repère indicatif > 80 %). Lucide : P/FCF vs médiane 10 ans sur la fiche action. CTA lucide.finance/actions. Dossier posts/2026-10-22_sh_06."
+    }
+  },
+  {
+    "key": "serie_2026-10-05",
+    "data": {
+      "date": "2026-10-05T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 01",
+      "titre": "Le ROIC",
+      "fonctionnalite": "Note qualité /100 (ROIC 5 ans) → lucide.finance/actions",
+      "statut": "réalisé → lucide_sh_01",
+      "format": "short",
+      "brief": "PRÊT À PUBLIER : dossier posts/2026-10-08_sh_01 (video.mp4, caption.txt = légende Instagram et texte Facebook, youtube.txt = TITRE/DESCRIPTION/TAGS). Publier tel quel sans régénérer (le nom du dossier dit 10-08 mais l'épisode sort le 5 octobre, c'est normal)."
+    }
+  },
+  {
+    "key": "serie_2026-10-08",
+    "data": {
+      "date": "2026-10-08T00:00:00.000Z",
+      "pilier": "SÉRIE 1 notion en 20 s — ép. 02",
+      "titre": "Le rendement du dividende",
+      "fonctionnalite": "Note qualité / solidité (soutenabilité du dividende)",
+      "statut": "réalisé → lucide_sh_02",
+      "format": "short",
+      "brief": "Notion : le rendement du dividende (dividende annuel ÷ cours). Animation : 100 € investis, 4 € de dividende = 4 % ; piège du rendement trop élevé (cours qui a chuté, dividende non couvert : taux de distribution > 100 %). Dossier posts/2026-10-08_sh_02. Publié Facebook + Instagram ; YouTube en échec (uploadVideo 403)."
+    }
+  },
+  {
+    "key": "lucide_promo_01",
+    "data": {
+      "post_id": "lucide_promo_01",
+      "date": "2026-10-20T00:00:00.000Z",
+      "pilier": "PROMO — short de présentation (hors planning)",
+      "titre": "Du bruit au signal : chaque action notée sur 100",
+      "accroche": "Trop de bruit sur les marchés ? Chaque action notée sur 100 #Shorts",
+      "fonctionnalite": "Note globale (Core Quality, Tendance, Potentiel IA)",
+      "statut": "publié (Facebook, Instagram, YouTube)",
+      "texte": "Trop de bruit sur les marchés ? Lucide garde l'essentiel. Chaque action reçoit une note claire sur 100 (Core Quality, Tendance, Potentiel IA). Fiche ASML, données au 20/10/2026. Commencez gratuitement avec 2 analyses par mois. lucide.finance",
+      "format": "short"
+    }
+  }
+]
