@@ -67,7 +67,7 @@ Mettre en avant ce que Volpidoc fait gagner : du temps, de l'argent, de vraies i
 
 ## Data store Make 218332 (historique et planning)
 - L'API Make ne lit que 100 records par appel : toujours limit 100, jamais plus.
-- Chaque dimanche soir, la tâche « nettoyage du data store » archive les records terminés de plus de 21 jours dans archive/datastore/<date>.json puis les supprime du data store.
+- Chaque dimanche soir, la tâche « nettoyage du data store » archive les records terminés de plus de 21 jours dans le dépôt PRIVÉ Maximecallens/social-archives (archive/datastore/<date>.json, via le scénario Make 8041736 avec repo = social-archives) puis les supprime du data store. Depuis le 17/11/2026, aucune archive ne doit être écrite dans ce dépôt public.
 - Record « compteurs » (brief « vd_li=N;vd_x=N ») : derniers numéros attribués ; c'est lui qui donne le prochain vd_li_NN / vd_x_NN (pas le nombre de clés).
 - Record « drv_index » (brief = fileId séparés par des virgules) : vidéos du drive déjà traitées dont le record drv_ a été archivé ; à ignorer à l'inventaire du samedi.
 - Champs disponibles : post_id, date, canal, format, pilier, titre, dossier, brief, statut, texte, lien (tout autre champ est perdu).
